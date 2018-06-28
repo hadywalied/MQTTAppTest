@@ -38,17 +38,18 @@ and a TextView, to show text, to view the topic messages.
 when pressing disconnect, the Layout, in which the two switches and the Text are, will vanish But only if the disconnection process is successful, also there are Two Toasts to indicate if the disconnection succeeded or not.
 
 ### What I Learned
-I got to know more about IOT Protocols with Android and other platforms.
+I learnt more about IOT Protocols with Android and other platforms.
 
-Also I got to know the MQTT and work with it
+Also I got to know the MQTT and worked with it
 
 ### My expreience
 Java (Intermediate)
 
 Kotlin (Beginner)
 
-Android in general (I've been learning it and working with it for a year so far)
+Android in general (I've been learning it and working with it for a year so far, and also taught it in a student activity in our college)
 
+used many source control platforms ( GitHub, BitBucket, etc...)
 
 ## Authors
 

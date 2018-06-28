@@ -4,10 +4,9 @@ Android application on the MQTT, The MQTT connection is encapsulated within an A
 
 
 
-### Prerequisites
+## Prerequisites
 
-What things you need to install the app and how to install them
-
+##### Things you need to install the app.
 
 you'll need a MQTT Broker.
 * I've used [MQTT Box](http://workswithweb.com/html/mqttbox/downloads.html) enables you to create MQTT clients to publish or subscript topics, create MQTT virtual device networks, load test MQTT devices or brokers.
@@ -46,5 +45,4 @@ check the About.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
 
